@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/dafni-toula-icon.svg"
+ },
+ "source_md5": "093809a47e700d77bc619d8084588fb4",
+ "version": "edbefe75",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "aa7acd59f8534dcee9ba05038943148e"
+ ],
+ "made": "2026-11-24"
+}
